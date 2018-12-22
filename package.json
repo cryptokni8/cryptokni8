@@ -1,6 +1,6 @@
 {
   "name": "cryptokni8",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Playful stuff with npx",
   "bin": "display.js",
   "main": "index.js",
