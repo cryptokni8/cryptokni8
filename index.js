@@ -2,8 +2,8 @@ const { render } = require('prettyjson')
 const data = require('./data')
 
 const renderOpts = {
-    dashColor: 'cyan',
-    keysColor: 'blue',
+    dashColor: 'red',
+    keysColor: 'green',
     stringColor: 'white'
 }
 
